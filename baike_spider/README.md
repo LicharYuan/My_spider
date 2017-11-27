@@ -1,6 +1,4 @@
 #My_spider
-<<<<<<< HEAD
-<<<<<<< HEAD
 Purpose:To get the title and abstract form  hyperlink in the baike net
 Environment:python3.5
 ##This spider is divided into five parts:
