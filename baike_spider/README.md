@@ -1,5 +1,6 @@
 #My_spider
 <<<<<<< HEAD
+<<<<<<< HEAD
 Purpose:To get the title and abstract form  hyperlink in the baike net
 Environment:python3.5
 ##This spider is divided into five parts:
@@ -16,3 +17,5 @@ After the spiderman end,the result of this projiect is shown as follow:
 ![result_pic](/home/lichar/Pictures/Mozilla Firefox_012.png)
 
 
+=======
+>>>>>>> 0cf6c61f13516e2a80e7a0008c443b2329d95799
